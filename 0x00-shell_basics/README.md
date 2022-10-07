@@ -1,1 +1,1 @@
-sort
+school.mgc
