@@ -1,1 +1,1 @@
-viewing two files at once
+print last 10 lines
