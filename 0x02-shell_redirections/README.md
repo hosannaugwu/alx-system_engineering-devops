@@ -1,1 +1,1 @@
-delete all .js
+count all dir
